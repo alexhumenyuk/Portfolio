@@ -21,7 +21,6 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 </div>
 <h1 dir="auto"></h1>
 
-## 
 <div>
   <a href="https://github.com/username/repo" target="_blank" rel="noopener noreferrer">
     <img 
