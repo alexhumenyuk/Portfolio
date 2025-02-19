@@ -43,8 +43,9 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
     <img 
       src="/Images/neural-network.png" 
       align="left" 
+      height="150"
       width="250"
-      style="margin-right: 20px;"
+      style="max-width: 100%;"
       />
     </a>
   <h3><a href="https://github.com/alexhumenyuk/AI-projects/tree/main/CIFAR10%20PyTorch%20project">CIFAR-10 Image Classification with PyTorch</a></h3>
