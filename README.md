@@ -9,8 +9,9 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
     <img 
       src="/Images/kidneys.jpg" 
       align="left" 
+      height="150"
       width="250"
-      style="margin-right: 20px;"
+      style="max-width: 100%;"
       />
     </a>
   <h3><a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">Phosphoproteome Characterization of Acute Kidney Injury</a></h3>
