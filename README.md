@@ -5,7 +5,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 
 ## Projects
 <div>
-  <a href="https://github.com/username/repo](https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
       src="/volcano_plot_0_blurred_labels.png" 
       align="left" 
