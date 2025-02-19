@@ -4,7 +4,22 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 - LinkedIn: [linkedin.com/in/alex-humenyuk](www.linkedin.com/in/alex-humenyuk)
 
 ## Projects
-| <img src="AÑADIR PATH DE IMAGEN QUE SUBA" width="250"/> | **[Phosphoproteome characterization of acute kidney injury](https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI)**<br/>
+<div style="display: flex; align-items: flex-start;">
+  <img src="AÑADIR PATH DE IMAGEN QUE SUBA" alt="Project Image" width="250" style="margin-right: 20px;" />
+  <div>
+    <h3><a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">Customer Survival Analysis and Churn Prediction</a></h3>
+    <p>
+      In this project I have used survival analysis to study how the likelihood
+      of the customer churn changes over time. I have also implemented a
+      Random Forest model to predict the customer churn and deployed a model
+      using Flask webapp on Heroku.
+      <a href="#">App</a>
+    </p>
+  </div>
+</div>
+<br/>
+
+| <img src="" width="250"/> | **[Phosphoproteome characterization of acute kidney injury](https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI)**<br/>
 In this project, as part of my master's thesis, I analyzed the differences between the phosphoproteome of kidneys from healthy mice and mice with acute kidney injury. After preprocessing the raw data, I generated a volcano plot to visualize the most significant differences and performed PCA and enrichment analysis. |
 | --- | --- |
 
