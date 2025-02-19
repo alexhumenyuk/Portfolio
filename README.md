@@ -19,7 +19,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
   </p>
   <br style="clear: both;" />
 </div>
-
+</n>
 <h1 dir="auto"></h1>
 
 <div>
