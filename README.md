@@ -7,7 +7,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
-      src="/kidneys.jpg" 
+      src="/Images/kidneys.jpg" 
       align="left" 
       width="250"
       style="margin-right: 20px;"
@@ -24,7 +24,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
-      src="/frequencies.jpg" 
+      src="/Images/frequencies.jpg" 
       align="left" 
       width="250"
       style="margin-right: 20px;"
@@ -42,7 +42,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
-      src="/neural_network.png" 
+      src="/Images/neural_network.png" 
       align="left" 
       width="250"
       style="margin-right: 20px;"
