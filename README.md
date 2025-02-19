@@ -9,13 +9,11 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
     <img 
       src="/volcano_plot_0_blurred_labels.png" 
       align="left" 
-      height="150"
+      width="250"
       style="margin-right: 20px;"
       />
     </a>
-  <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">
-    <h3>Phosphoproteome Characterization of Acute Kidney Injury</h3>
-  </a>
+  <h3><a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">Phosphoproteome Characterization of Acute Kidney Injury</a></h3>
   <p>
     In this project, as part of my master's thesis, I analyzed the differences between the phosphoproteome of kidneys from healthy mice and mice with acute kidney injury. After preprocessing the raw data, I generated a volcano plot to visualize the most significant differences and performed PCA and enrichment analysis.
   </p>
