@@ -42,7 +42,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
-      src="/Images/neural_network.png" 
+      src="/Images/neural-network.png" 
       align="left" 
       width="250"
       style="margin-right: 20px;"
