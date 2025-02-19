@@ -1,7 +1,7 @@
 # Bioinformatics & Data Science Portfolio
 This portfolio is a compilation of all the Bioinformatics and Data Science projects I have done for academic and self-learning purposes.
 - Email: [alex.humenyuk@hotmail.com](mailto:alex.humenyuk@hotmail.com)
-- LinkedIn: [linkedin.com/in/alex-humenyuk](www.linkedin.com/in/alex-humenyuk)
+- LinkedIn: [linkedin.com/in/alex-humenyuk](https://www.linkedin.com/in/alex-humenyuk)
 
 ## Projects
 <div>
