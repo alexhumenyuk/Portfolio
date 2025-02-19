@@ -4,8 +4,17 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 - LinkedIn: [linkedin.com/in/alex-humenyuk](www.linkedin.com/in/alex-humenyuk)
 
 ## Projects
-<div style="display: flex; align-items: flex-start;">
-  <img src="/volcano_plot_0_blurred_labels.png" alt="Project Image" width="250" style="margin-right: 20px; width: 250px;" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/volcano_plot_0_blurred_labels.png" width="250" style="margin-right: 20px;">
+  <div>
+    <h3><a href="https://github.com/yourusername/project1">Project Title 1</a></h3>
+    <p>A brief description of your first project. This can be a single line or multiple lines describing what your project does, the technologies used, or any other relevant information.</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/volcano_plot_0_blurred_labels.png" width="250" style="margin-right: 20px; width: 250px;">
   <div>
     <h3><a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">Phosphoproteome Characterization of Acute Kidney Injury</a></h3>
     <p>
