@@ -5,7 +5,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 
 ## Projects
 <div style="display: flex; align-items: flex-start;">
-  <img src="AÑADIR PATH DE IMAGEN QUE SUBA" alt="Project Image" width="250" style="float: left; margin-right: 20px; width: 250px;" />
+  <img src="/volcano_plot_0_blurred_labels.png" alt="Project Image" width="250" style="float: left; margin-right: 20px; width: 250px;" />
   <div>
     <h3><a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI">Phosphoproteome Characterization of Acute Kidney Injury</a></h3>
     <p>
