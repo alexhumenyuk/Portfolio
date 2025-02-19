@@ -50,6 +50,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
   <p>
     The goal of this project was to gain experience with neural network implementation using PyTorch. I developed a convolutional neural network (CNN) and trained it on the CIFAR-10 dataset. Additionally, I tested the model on various internet-sourced images to see if the model could label them correctly.
   </p>
+  <br style="clear: both;" />
 </div>
 
 ##
