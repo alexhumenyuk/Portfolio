@@ -19,6 +19,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
     As part of my master's thesis, I analyzed differences in the phosphoproteome of kidneys from healthy mice and those with acute kidney injury. After preprocessing the raw data, I generated a volcano plot to highlight the most significant differences and conducted principal component analysis (PCA) and enrichment analysis.
   </p>
 </div>
+<br>
 <!--<div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
