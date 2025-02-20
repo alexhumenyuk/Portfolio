@@ -9,7 +9,6 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
   <p dir="auto">In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. <a href="https://churn-prediction-app.herokuapp.com/" rel="nofollow">App</a></p>
 </div>
 
-##
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
