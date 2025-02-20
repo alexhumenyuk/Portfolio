@@ -12,6 +12,9 @@ In this project I have used survival analysis to study how the likelihood of the
 I also implemented a Random Forest model to predict the customer churn and deployed a model using a Flask webapp on Heroku.  
 [App](https://churn-prediction-app.herokuapp.com/)
 
+---
+
+
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
