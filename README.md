@@ -11,8 +11,11 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time.  
 I also implemented a Random Forest model to predict the customer churn and deployed a model using a Flask webapp on Heroku.  
 ##
-
-
+![Customer Survival Analysis and Churn Prediction](/Images/kidneys.jpg "Optional hover text")  
+**[Customer Survival Analysis and Churn Prediction](https://github.com/YourUser/Customer-Survival-Analysis-and-Churn-Prediction)**  
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time.  
+I also implemented a Random Forest model to predict the customer churn and deployed a model using a Flask webapp on Heroku. 
+##
 <div>
   <a href="https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI" target="_blank" rel="noopener noreferrer">
     <img 
