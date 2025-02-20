@@ -47,7 +47,7 @@ This portfolio is a compilation of all the Bioinformatics and Data Science proje
       style="max-width: 100%;"
       />
     </a>
-  <h3><a href="https://github.com/alexhumenyuk/AI-projects/tree/main/CIFAR10%20PyTorch%20project">CIFAR-10 Image Classification with PyTorch</a></h3>
+  <strong><a href="https://github.com/alexhumenyuk/AI-projects/tree/main/CIFAR10%20PyTorch%20project">CIFAR-10 Image Classification with PyTorch</a></strong>
   <p>
     The goal of this project was to gain experience with neural network implementation using PyTorch. I developed a convolutional neural network (CNN) and trained it on the CIFAR-10 dataset. Additionally, I tested the model on various internet-sourced images to see if the model could label them correctly.
   </p>
