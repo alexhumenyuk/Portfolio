@@ -11,7 +11,7 @@ As part of my master's thesis, I analyzed differences in the phosphoproteome of 
 
 #
 
-<img align="left" width="250" height="150" src="/Images/neural-network.png"> **[CIFAR-10 Image Classification with PyTorch](https://github.com/alexhumenyuk/Masters-Thesis-proteomics-AKI](https://github.com/alexhumenyuk/AI-projects/tree/main/CIFAR10%20PyTorch%20project )**
+<img align="left" width="250" height="150" src="/Images/neural-network.png"> **[CIFAR-10 Image Classification with PyTorch](https://github.com/alexhumenyuk/AI-projects/tree/main/CIFAR10%20PyTorch%20project)**
 
 The goal of this project was to gain experience with neural network implementation using PyTorch. I developed a convolutional neural network (CNN) and trained it on the CIFAR-10 dataset. Additionally, I tested the model on various internet-sourced images to see if the model could label them correctly.
 
