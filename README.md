@@ -19,7 +19,7 @@ The goal of this project was to gain experience with neural network implementati
 
 <img align="left" width="250" height="150" src="/Images/frequencies.jpg"> **[Peak detector for intruder alerts (TensorFlow)](https://github.com/alexhumenyuk/AI-projects/tree/main/Peak%20detector%20for%20intruder%20alerts%20(TensorFlow))**
 
-This is a personal project intended to apply the knowledge I acquired from Google's Machine Learning Crash Course. The project consists of a logistic regression model that can detect peaks in the relative humidity signal of a room in real time.
+This is a personal project intended to apply the knowledge I acquired from [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course). The project consists of a logistic regression model that can detect peaks in the relative humidity signal of a room in real time.
 
 <br />
 <!--<div>
