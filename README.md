@@ -15,6 +15,7 @@ As part of my master's thesis, I analyzed differences in the phosphoproteome of 
 
 The goal of this project was to gain experience with neural network implementation using PyTorch. I developed a convolutional neural network (CNN) and trained it on the CIFAR-10 dataset. Additionally, I tested the model on various internet-sourced images to see if the model could label them correctly.
 
+
 #
 
 <img align="left" width="250" height="150" src="/Images/frequencies.jpg"> **[Peak detector for intruder alerts (TensorFlow)](https://github.com/alexhumenyuk/AI-projects/tree/main/Peak%20detector%20for%20intruder%20alerts%20(TensorFlow))**
